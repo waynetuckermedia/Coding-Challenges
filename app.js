@@ -9,7 +9,7 @@
 //R: Return a new arr with each value doubled
 function doubled(arr){
     return arr.map(elem=> elem*2)
-}
+}//
 // If we are given [2,3,4], should return [4,6,8]
 
 // If we are given [4,5,6], should return [8,10,12]
